@@ -24,19 +24,13 @@ Este projeto implementa um sistema de monitoramento de câmeras utilizando FastA
    ```sh
    git clone https://github.com/seu_usuario/seu_repositorio.git
    cd seu_repositorio
-   
-2. Crie um ambiente virtual e ative-o:
-   
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # No Windows, use `venv\Scripts\activate`
 
-3. Instale as dependências:
+2. Instale as dependências:
    
    ```sh
    pip install -r requirements.txt
 
-5. Execute o servidor FastAPI:
+3. Execute o servidor FastAPI:
    
    ```sh
    uvicorn main:app --reload
