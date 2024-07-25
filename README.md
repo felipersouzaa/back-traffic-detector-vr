@@ -22,7 +22,7 @@ Este projeto implementa um sistema de monitoramento de câmeras utilizando FastA
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone git clone https://github.com/seu_usuario/seu_repositorio.git
    cd seu_repositorio
 
 2. Instale as dependências:
