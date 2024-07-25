@@ -23,7 +23,6 @@ Este projeto implementa um sistema de monitoramento de câmeras utilizando FastA
 
    ```sh
    git clone https://github.com/felipersouzaa/back-traffic-detector-vr
-   cd seu_repositorio
 
 2. Instale as dependências:
    
